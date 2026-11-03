@@ -21,8 +21,3 @@ kitty雖然只是紙板做成的小生物，卻擁有自己的個性！
       腳位:LED 紅 PA0、綠 PA1、藍 PA4;馬達 PB3~PB6;
       按鈕1 PC0(換眼色)pull up、按鈕3 PA10(EXTI,緊急)pull up。
       UART:USART2 PA2/PA3,115200 8N1,透過 ST-LINK 虛擬 COM 埠）
-
-## 7. 程式結構：哪個檔做什麼、 ISR 與主迴圈分工
-
-## 8. 實作照片：每張附一行圖說
-![board](docs/board.jpg)
